@@ -1,0 +1,5 @@
+data/
+.Rhistory
+Pipfile
+*.pyc
+security/clients.pem
